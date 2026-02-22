@@ -20,8 +20,8 @@ This project uses [uv](https://github.com/astral-sh/uv) for lightning-fast depen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/anjalraitmg/asl_interpreter.git
+   cd asl_interpreter
 
 2. Sync the dependencies and run the application:
    uv run main.py
